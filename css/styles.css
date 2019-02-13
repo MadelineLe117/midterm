@@ -2,11 +2,16 @@
   DIAGNOSTIC STYLING
 */
 body {
-  background: gray;
+background: #000;
+  text-align: center;
 }
 
-* {
-  outline: 1px dotted black;
+iframe {
+  border: groove powderblue 20px;
+}
+
+p {
+  color: white;
 }
 
 /* Your Awesome Scripts */
